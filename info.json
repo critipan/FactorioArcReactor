@@ -1,0 +1,10 @@
+{
+  "name": "FactorioArcReactor",
+  "version": "0.0.1",
+  "title": "方舟弧形反应堆",
+  "author": "critipan",
+  "license": "https://mods.factorio.com",
+  "description": "弧形反应堆,发电功率5GW",
+  "factorio_version": "1.1",
+  "dependencies":[]
+}
